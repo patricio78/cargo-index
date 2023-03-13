@@ -1,2 +1,3 @@
 {"name":"poc-registry","vers":"0.1.0","deps":[],"cksum":"82d62ecdec94a6863f9e0b207ff087b495ba8136f6db171c2bb8adca2b3d6f9d","features":{},"yanked":false,"links":null}
 {"name":"poc-registry","vers":"1.0.0","deps":[],"cksum":"a885362c5c81ca51403e867f6e75736bcec064456fe7ee62038e10f9b855304f","features":{},"yanked":false,"links":null}
+{"name":"poc-registry","vers":"2.0.0","deps":[],"cksum":"30928073a5ca07a26d60f70d7866f6725afc6136c385844b471c31b40ff0a36b","features":{},"yanked":false,"links":null}
