@@ -1,5 +1,5 @@
 {
-  "dl": "http://127.0.0.1:3000/api/v1/crates",
-  "api": "http://127.0.0.1:3000",
+  "dl": "http://127.0.0.1:3000/a9ee3922-f172-452f-8eef-5db2e685eaa1/api/v1/crates",
+  "api": "http://127.0.0.1:3000/a9ee3922-f172-452f-8eef-5db2e685eaa1",
   "auth-required": true
 }
